@@ -1,5 +1,3 @@
-[cite_start]以下是根据您提供的项目介绍文档 [cite: 3] [cite_start]整理的 **README** 模板。内容涵盖了技术架构 [cite: 26][cite_start]、核心功能 [cite: 9] [cite_start]及快速启动指南 [cite: 54]。
-
 ---
 
 # 硅谷小智 (Guigu Xiaozhi) - AI 智能伴诊助手
