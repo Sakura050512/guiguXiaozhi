@@ -1,4 +1,3 @@
----
 
 # 硅谷小智 (Guigu Xiaozhi) - AI 智能伴诊助手
 
